@@ -1,0 +1,24 @@
+{
+  "credit": "NOAA Global Monitoring Laboratory / Xin Lan; Scripps Institution of Oceanography / Ralph Keeling. See original file headers.",
+  "landing_page": "https://gml.noaa.gov/ccgg/trends/data.html",
+  "files": [
+    {
+      "filename": "co2_mm_mlo.txt",
+      "url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_mm_mlo.txt",
+      "retrieved_utc": "2026-10-15T07:31:08.444326+00:00",
+      "sha256": "0ce4e7749217b4af2cca8e0bdf263856ad59b0a2946d4e98c7b22ccfbff21cad",
+      "rows": 823,
+      "first_row": "1958    3   1958.2027      315.71      314.44     -1   -9.99   -0.99",
+      "last_row": "2026    9   2026.7083      426.07      429.55     18    0.51    0.23"
+    },
+    {
+      "filename": "co2_annmean_mlo.txt",
+      "url": "https://gml.noaa.gov/webdata/ccgg/trends/co2/co2_annmean_mlo.txt",
+      "retrieved_utc": "2026-10-15T07:31:08.111017+00:00",
+      "sha256": "42acfe30569dd7134bda3ac3eb74e347a55b5133c3926557410e1b4ec4423f7f",
+      "rows": 67,
+      "first_row": "1959   315.98     0.12",
+      "last_row": "2025   427.35     0.12"
+    }
+  ]
+}
